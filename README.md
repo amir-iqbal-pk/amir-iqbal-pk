@@ -39,7 +39,7 @@ I am ambitious and want to excel in front end development and associate myself w
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 
