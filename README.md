@@ -82,8 +82,7 @@ I am ambitious and want to excel in front end development and associate myself w
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=amir-iqbal-pk&&style=flat-square)  
+  
   
 
 <br/>  
