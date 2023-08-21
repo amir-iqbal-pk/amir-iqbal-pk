@@ -4,7 +4,7 @@
 <a href="https://github.com/amir-iqbal-pk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/linkedin.com/in/amir-iqbal-3a27b7175" target="_blank">
+<a href="https://www.linkedin.com/in/amir-iqbal-3a27b7175/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/raoamir216@yahoo.com" target="_blank">
